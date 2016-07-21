@@ -1,2 +1,2 @@
-# gitd-demo
+# git-demo
 Git demonstration
